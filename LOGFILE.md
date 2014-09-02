@@ -10,3 +10,11 @@
 * added databse.yml to .gitignore file
 * ran 'bundle update sprockets' due to a conflict
 * ran 'rake db:create:all'
+* Added rspec to the development and test groups in the Gemfile
+* Ran bundle install
+* Ran `rails generate rspec:install`
+* added capybara in rspec test environment
+* added spec/support/capybara.rb
+* changed .rspec to rails_helper instead of ruby_helper
+* brew installed qt
+* bundled. again.
